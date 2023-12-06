@@ -112,6 +112,6 @@ plt.xlabel('Year')
 plt.ylabel('Number of Tweets')
 plt.show()
 ```
-
+![image](https://github.com/Lexiexu/Assignment3a/blob/main/Elon%20Musk%20Tweets%20Over%20the%20Years.png)
 # Source of the dataset
-Created: 6 years ago by @adamhelsinger
+Created by @adamhelsinger
