@@ -113,5 +113,11 @@ plt.ylabel('Number of Tweets')
 plt.show()
 ```
 ![image](https://github.com/Lexie-xu/Assignment3a/blob/main/Elon%20Musk%20Tweets%20Over%20the%20Years.png)
+#### What conclusion can we infer from this bar chart?
+The results indicate a significant increase in Musk's tweet volume in 2016. This is likely attributed to substantial progress made by Musk's companies in various aspects. This surge in tweet activity suggests active promotion and engagement on Musk's part. For instance, notable events include:
+1. Tesla's official launch of the new electric car, the Model 3, in July 2016.
+2. The completion of Tesla's acquisition of solar energy company SolarCity in November 2016.
+3. SpaceX's successful vertical landing of the Falcon 9 rocket.
+4. Introduction of the ambitious 'Interplanetary Spaceship' plan
 # Source of the dataset
 Created by @adamhelsinger
